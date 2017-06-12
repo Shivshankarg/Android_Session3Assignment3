@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Session3Assignment3</string>
+
+    <string name="card_balance">Enter Card Balance </string>
+    <string name="yearly_interest_rate">Enter Yearly Interest Rate %</string>
+    <string name="minimum_payment">Enter Minimum Payment </string>
+    <string name="final_card_balance">Final Card Balance </string>
+    <string name="months_remaining">Months Remaining</string>
+    <string name="interest_paid">Interest to be Paid</string>
+
+
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+</resources>
